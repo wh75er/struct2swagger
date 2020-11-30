@@ -1,5 +1,7 @@
 # struct2swagger [![Build Status](https://travis-ci.org/allevo/struct2swagger.svg?branch=master)](https://travis-ci.org/allevo/struct2swagger)
 
+> Fork with UUID implementation
+
 Utilities for generating OpenAPI Specification from your structures
 
 ## Install
